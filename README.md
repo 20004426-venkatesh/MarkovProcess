@@ -28,8 +28,8 @@ Assumptions for Markov Chain :
 # Program
 ```python
 # Developed by
-# Name: SHAIK KHADAR BASHA
-# Register Number: 212220230045
+# Name: Ganapathi Venkatesh
+# Register Number: 212220230018
 
 import numpy as np
 P0=[0.3,0.2,0.5]
